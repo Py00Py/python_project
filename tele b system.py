@@ -1,5 +1,5 @@
 print("""***************KENDRIYA VIDYALAYA VIKAS PURI **********************\n***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
-\n*******Shalok- CLASS XII A ********
+\n*******Shalok********
 print()
 print()
 import mysql.connector as mq
