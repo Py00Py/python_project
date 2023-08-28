@@ -1,6 +1,5 @@
 print("""***************KENDRIYA VIDYALAYA VIKAS PURI **********************\n***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
-\n*******Shalok- CLASS XII A – ROLL NO -35 [ 2022-2023 ] \n*******Siddharth – CLASS XII A – ROLL NO – 38[ 2022-2023]""")
-
+\n*******Shalok- CLASS XII A ********
 print()
 print()
 import mysql.connector as mq
