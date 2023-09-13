@@ -1,4 +1,4 @@
-print("""***************KENDRIYA VIDYALAYA VIKAS PURI **********************\n***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
+print("""***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
 \n*******Shalok********
 print()
 print()
