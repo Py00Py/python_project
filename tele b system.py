@@ -150,7 +150,7 @@ def billing():
             if calls>150:
                 print("\n\t\tover 150 calls is Rs3.0/call =",over150_)
             elif 100<calls<150:
-                print("\n\t\tbetween 150-100 calls is Rs2.0/call =",next100to150_)
+                print("\n\t\t between 150-100 calls is Rs2.0/call =",next100to150_)
             else:
                 print("\n\t\tbelow 100 calls is Rs1.0/call =",next50to100_)
             print("\n\t\tNew bill amount:    ",bill)
