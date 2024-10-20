@@ -1,5 +1,5 @@
 print("""***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
-\n*******Sanvi Mittal********""")
+\n*******Shalok********""")
 print()
 print()
 import mysql.connector as mq
