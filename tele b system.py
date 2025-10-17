@@ -1,6 +1,4 @@
-print("""***************TELEphONE billING SYSTEM ************************** \n*******Designed and Maintained By :
-\n*******Shalok********""")
-print()
+print("""***************TELEphONE billING SYSTEM **************************)
 print()
 import mysql.connector as mq
 def menu():
